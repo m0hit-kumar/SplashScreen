@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">splashscreen</string>
+    <string name="logo_name">i fit</string>
+    <string name="slogan_name">lets workout</string>
+    <string name="powered_by">powered by mohit kumar</string>
+    <string name="todo">TODO</string>
+</resources>
